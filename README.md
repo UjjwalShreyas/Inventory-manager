@@ -27,3 +27,5 @@ This project uses **structures + binary file handling** to simulate how real sys
 ---
 
 ## 📸 Sample Output
+<img width="913" height="675" alt="Screenshot 2025-09-05 104621" src="https://github.com/user-attachments/assets/07d243ba-449a-4014-a0e2-38468e8f7060" />
+
