@@ -6,14 +6,14 @@ This project uses **structures + binary file handling** to simulate how real sys
 ---
 
 ## ✨ Features
-- Add products (auto-generated unique IDs ✅)
+- Add products 
 - View all products in a table
 - Search by:
   - Product ID
-  - Product Name (case-insensitive)
+  - Product Name (case-insensitive , considering typos by humans)
 - Edit product details
 - Delete a product
-- Low-stock report (default: shows items with quantity < 10)
+- Low-stock report (default: it shows items with quantity < 10)
 - Export all data to **CSV** (properly quoted, spreadsheet-ready)
 
 ---
